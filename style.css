@@ -85,9 +85,9 @@ div.social-media-links {
 }
 
 .social-media-links a:hover {
-    opacity: 0.5;
+    color: #000;
+    background: hsl(75, 94%, 57%);
 }
-
 .social-media-links a:active {
-    opacity: 1;
+    opacity: 0.5;
 }

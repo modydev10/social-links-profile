@@ -14,9 +14,9 @@ body {
 
 
 #main-card {
-    width: 240px;
-    max-width: 75%;
-    height: 400px;
+    width: 300px;
+    max-width: 80%;
+    height: 450px;
     max-height: 90%;
     background: hsl(0, 0%, 12%);
     border-radius: 8px;
@@ -43,12 +43,12 @@ div.user-info {
 }
 
 div.user-info img {
-    width: 50px;
+    width: 60px;
     border-radius: 50%;
 }
 
 h2.username {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
@@ -56,16 +56,16 @@ span.living-location {
     color: hsl(75, 94%, 57%);
     position: relative;
     top: -15px;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 span.role-discription {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 div.social-media-links {
     width: 80%;
-    height: 45%;
+    height: 50%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -74,7 +74,7 @@ div.social-media-links {
 .social-media-links a {
     width: 100%;
     background: hsl(0, 0%, 20%);
-    height: 30px;
+    height: 35px;
     border: none;
     border-radius: 8px;
     list-style-type: none;

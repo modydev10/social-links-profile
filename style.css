@@ -14,7 +14,7 @@ body {
 
 
 #main-card {
-    width: 250px;
+    width: 240px;
     max-width: 75%;
     height: 400px;
     max-height: 90%;
@@ -33,7 +33,6 @@ body {
 
 
 div.user-info {
-    border: 2px solid red;
     height: 40%;
     width: 80%;
     display: flex;
@@ -65,11 +64,8 @@ span.role-discription {
 }
 
 div.social-media-links {
-    border: 2px solid blue;
-    width: 90%;
-    height: calc(100% + 40px);
-    /* make it "fit-content" when you add links later */
-    /* height: fit-content; */
+    width: 80%;
+    height: 45%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
